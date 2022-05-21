@@ -1,0 +1,17 @@
+{
+  "name": "leetcodeanswers",
+  "version": "1.0.0",
+  "description": "This is where I post my answers for some of the leet code questions I do. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Leet code",
+    "algorithms",
+    "data structures",
+    "Jest"
+  ],
+  "author": "xolani maphumulo",
+  "license": "ISC"
+}
